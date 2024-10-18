@@ -5,8 +5,8 @@
       "password": "fiz"
     },
     {
-      "whatsappNumber": "083846147781",
-      "password": "123"
+      "whatsappNumber": "10",
+      "password": "nina"
     }
   ],
   "approvedUsers": [
@@ -16,7 +16,7 @@
     },
     {
       "whatsappNumber": "083846147781",
-      "token": "rafael123"
+      "token": "20"
     }
   ]
 }
